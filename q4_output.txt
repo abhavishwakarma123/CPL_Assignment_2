@@ -1,0 +1,110 @@
+Welcome to the game Hangman. Be careful!
+You have  3  tries.
+The word length is:  6
+Begin!
+_ _ _ _ _ _ 
+
+Enter letter ->  b
+B _ _ _ _ _ 
+
+Enter letter ->  q
+Oops! You have  2  tries left. 
+
+Enter letter ->  o
+B _ o _ _ _ 
+
+Enter letter ->  l
+B _ o _ _ l 
+
+Enter letter ->  s
+Oops! You have  1  tries left. 
+
+Enter letter ->  h
+B h o _ _ l 
+
+Enter letter ->  p
+B h o p _ l 
+
+Enter letter ->  t
+Oops! You have  0  tries left. 
+
+You lose!
+The word was:  Bhopal
+
+###########################################################
+###########################################################
+
+Welcome to the game Hangman. Be careful!
+You have  4  tries.
+The word length is:  8
+Begin!
+_ _ _ _ _ _ _ _ 
+
+Enter letter ->  a
+_ _ _ _ _ a _ a 
+
+Enter letter ->  l
+L _ _ _ _ a _ a 
+
+Enter letter ->  u
+L u _ _ _ a _ a 
+
+Enter letter ->  d
+L u d _ _ a _ a 
+
+Enter letter ->  h
+L u d h _ a _ a 
+
+Enter letter ->  k
+Oops! You have  3  tries left. 
+
+Enter letter ->  i
+L u d h i a _ a 
+
+Enter letter ->  n
+L u d h i a n a 
+
+You win!
+You correctly identified the word:  Ludhiana
+
+###########################################################
+###########################################################
+
+Welcome to the game Hangman. Be careful!
+You have  5  tries.
+The word length is:  10
+Begin!
+_ _ _ _ _ _ _ _ _ _ 
+
+Enter letter ->  a
+A _ _ a _ _ a _ a _ 
+
+Enter letter ->  t
+Oops! You have  4  tries left. 
+
+Enter letter ->  u
+A u _ a _ _ a _ a _ 
+
+Enter letter ->  k
+Oops! You have  3  tries left. 
+
+Enter letter ->  e
+Oops! You have  2  tries left. 
+
+Enter letter ->  r
+A u r a _ _ a _ a _ 
+
+Enter letter ->  n
+A u r a n _ a _ a _ 
+
+Enter letter ->  g
+A u r a n g a _ a _ 
+
+Enter letter ->  b
+A u r a n g a b a _ 
+
+Enter letter ->  d
+A u r a n g a b a d 
+
+You win!
+You correctly identified the word:  Aurangabad
